@@ -1,0 +1,4 @@
+#Sun Mar 22 19:50:55 CST 2020
+base.0=/Users/ivara/AndroidStudioProjects/TestGradle2/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
